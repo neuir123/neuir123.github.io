@@ -15,36 +15,36 @@ header:
   caption: "[**Mika Baumeister**](https://unsplash.com/@mbaumi) on [*Unsplash*](https://unsplash.com)"
 research_intro:
   - title: 课题组介绍
-  - excerpt: '欢迎来到东北大学信息检索小组 (NEUIR)! 我们是一个由学和教师组成的充满激情、兼容并蓄的团队。小组的学术总带头人是刘正皓教师，现有成员共20余人。我们的研究方向非常广泛，包括信息检索，多模态，代码智能，推荐系统等等。我们和包括清华大学自然语言处理实验室，启元实验室，阿里等实验室和企业展开了密切的学术合作和交流。'
+  - excerpt: '欢迎来到东北大学信息检索小组 (NEUIR)! 我们是一个由学生和教师组成的充满激情、兼容并蓄和富有创造力的团队。'
 research_areas:
   - image_path: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
-    title: "People Doing Design"
-    excerpt: "Humans make things happen. We study individuals and teams as they create new products and systems."
+    title: "小组构成"
+    excerpt: "NEUIR由刘正皓教授领导，现有成员共20余人。"
     image_caption: "[**Marvin Meyer**](https://unsplash.com/@marvelous) on [*Unsplash*](https://unsplash.com)"
   - image_path: "https://images.unsplash.com/photo-1581094651181-35942459ef62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-    title: "AI/ML Supporting Design"
-    excerpt: "By building ML systems in response to human needs, we can give problem solvers computational superpowers."
+    title: "研究方向"
+    excerpt: "我们的研究方向非常广泛，包括信息检索，多模态，代码智能，推荐系统等。"
     image_caption: "[**ThisisEngineering**](https://unsplash.com/@thisisengineering) on [*Unsplash*](https://unsplash.com)"
   - image_path: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-    title: "Human-AI Collaboration"
-    excerpt: "We elevate AI as a partner in the problem-solving process, helping teams achieve breakthrough solutions to wicked problems."
+    title: "合作交流"
+    excerpt: "我们和清华大学自然语言处理实验室，面壁智能，阿里等实验室和企业展开了密切的学术合作和交流。"
     image_caption: "[**Adi Golstein**](https://unsplash.com/@adigold1) on [*Unsplash*](https://unsplash.com)"
-application_intro:
-  - title: Application Domains
-  - excerpt: 'Across these research areas, we make fundamental advances in some important application domains. Here are a few of those.'
-application_areas:
-  - image_path: "https://images.unsplash.com/photo-1597765654525-5cb60d312ef6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-    title: "Additive Manufacturing"
-    excerpt: "We help designers capitalize on the new capabilities provided by additive manufacturing and 3D printing."
-    image_caption: "[**Tom Claes**](https://unsplash.com/@tomspentys) on [*Unsplash*](https://unsplash.com)"
-  - image_path: "https://images.unsplash.com/photo-1512772452758-275f069da6bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
-    title: "Marine Renewable Energy"
-    excerpt: "As climate changes continues to impact our world, we design new ways to generate electricity from the power of the ocean."
-    image_caption: "[**Matt Power**](https://unsplash.com/@thisispower) on [*Unsplash*](https://unsplash.com)"
-  - image_path: "https://images.unsplash.com/photo-1508444845599-5c89863b1c44?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1769&q=80"
-    title: "Unmanned Aerial Vehicles"
-    excerpt: "Using unmanned aerial vehicles, or drones, we search for new opportunities to deliver good and services to the people who need them most."
-    image_caption: "[**Alession Soggetti**](https://unsplash.com/@asoggetti) on [*Unsplash*](https://unsplash.com)"
+#application_intro:
+#  - title: Application Domains
+#  - excerpt: 'Across these research areas, we make fundamental advances in some important application domains. Here are a few of those.'
+#application_areas:
+#  - image_path: "https://images.unsplash.com/photo-1597765654525-5cb60d312ef6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+#    title: "Additive Manufacturing"
+#    excerpt: "We help designers capitalize on the new capabilities provided by additive manufacturing and 3D printing."
+#    image_caption: "[**Tom Claes**](https://unsplash.com/@tomspentys) on [*Unsplash*](https://unsplash.com)"
+#  - image_path: "https://images.unsplash.com/photo-1512772452758-275f069da6bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
+#    title: "Marine Renewable Energy"
+#    excerpt: "As climate changes continues to impact our world, we design new ways to generate electricity from the power of the ocean."
+#    image_caption: "[**Matt Power**](https://unsplash.com/@thisispower) on [*Unsplash*](https://unsplash.com)"
+#  - image_path: "https://images.unsplash.com/photo-1508444845599-5c89863b1c44?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1769&q=80"
+#    title: "Unmanned Aerial Vehicles"
+#    excerpt: "Using unmanned aerial vehicles, or drones, we search for new opportunities to deliver good and services to the people who need them most."
+#    image_caption: "[**Alession Soggetti**](https://unsplash.com/@asoggetti) on [*Unsplash*](https://unsplash.com)"
 
 ---
 
