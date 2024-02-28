@@ -6,16 +6,16 @@ header:
   overlay_filter: linear-gradient(rgba(0, 0, 0, 0.5), rgba(234, 133, 52, 0.5))
   overlay_image: "https://images.unsplash.com/photo-1596213812143-ff89bd9ddecd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80"
   actions:
-    - label: "<i class=\"fas fa-users\"></i>   Meet Our Team"
-      url: "https://cmudrc.github.io/team/"
-    - label: "<i class=\"fas fa-user-plus\"></i>   Join Our Team"
+    - label: "<i class=\"fas fa-users\"></i>   团队介绍"
+      url: "https://neuir123.github.io/team/"
+    - label: "<i class=\"fas fa-user-plus\"></i>   加入我们"
       url: "mailto:ccm@cmu.edu?subject=Interested in Joining the Design Research Collective"
-    - label: "<i class=\"fas fa-book-reader\"></i>   Read Our Work"
-      url: "https://cmudrc.github.io/publications/"
+    - label: "<i class=\"fas fa-book-reader\"></i>   本组工作"
+      url: "https://neuir123.github.io/publications/"
   caption: "[**Mika Baumeister**](https://unsplash.com/@mbaumi) on [*Unsplash*](https://unsplash.com)"
 research_intro:
-  - title: Research Areas
-  - excerpt: 'In the Design Research Collective, we explore research at the intersection of engineering design, psychology, and computer science to create superpowers for designers, engineers, and problem-solvers.'
+  - title: 课题组介绍
+  - excerpt: '欢迎来到东北大学信息检索小组 (NEUIR)! 我们是一个由学和教师组成的充满激情、兼容并蓄的团队。小组的学术总带头人是刘正皓教师，现有成员共20余人。我们的研究方向非常广泛，包括信息检索，多模态，代码智能，推荐系统等等。我们和包括清华大学自然语言处理实验室，启元实验室，阿里等实验室和企业展开了密切的学术合作和交流。'
 research_areas:
   - image_path: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
     title: "People Doing Design"
