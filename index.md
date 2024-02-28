@@ -4,7 +4,7 @@ classes: wide
 permalink: /
 header:
   overlay_filter: linear-gradient(rgba(0, 0, 0, 0.5), rgba(234, 133, 52, 0.5))
-  overlay_image: "https://images.unsplash.com/photo-1596213812143-ff89bd9ddecd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80"
+  overlay_image: "/assets/school.jpg"
   actions:
     - label: "<i class=\"fas fa-users\"></i>   团队介绍"
       url: "https://neuir123.github.io/team/"
