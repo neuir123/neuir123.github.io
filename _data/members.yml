@@ -7,18 +7,18 @@
   homepage: "https://edwardzh.github.io/"
   alum: false
 
-- first: Jiangce
+- first: 兰宇晴
   last: Chen
-  role: Postdoc Researcher
+  role: Ph.D. Student
   alum: false
   email: "jiangcec@andrew.cmu.edu"
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/chen.jpeg"
   
-- first: Akash
+- first: 梅森
   last: Agrawal
-  role: Ph.D. Student
+  role: M.S. Student
   email: "aragrawa@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/agrawal.jpeg"
+  headshot: "meiseng.jpeg"
   alum: false
   
 - first: Martha
