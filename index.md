@@ -19,7 +19,7 @@ research_intro:
 research_areas:
   - image_path: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
     title: "小组构成"
-    excerpt: "NEUIR由刘正皓教授领导，现有成员共20余人。"
+    excerpt: "NEUIR由于戈和刘正皓教授领导，现有成员共20余人。"
     image_caption: ""
   - image_path: "https://images.unsplash.com/photo-1581094651181-35942459ef62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     title: "研究方向"
@@ -50,5 +50,3 @@ research_areas:
 
 {% include feature_row id="research_intro" type="center" %}
 {% include feature_row id="research_areas" %}
-{% include feature_row id="application_intro" type="center" %}
-{% include feature_row id="application_areas" %}
