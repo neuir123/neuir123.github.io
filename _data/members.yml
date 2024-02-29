@@ -11,7 +11,6 @@
   last: Chen
   role: Ph.D. Student
   alum: false
-  email: "liuzhenghao@mail.neu.edu.cn"
   headshot: "https://raw.githubusercontent.com/neuir123/neuir123.github.io/main/_data/zp.jpg"
   
 - first: 梅森
@@ -72,7 +71,7 @@
 
 - first: 张涵
   last: Lapp
-  role: 就职于工商银行技术岗
+  role: 工商银行辽宁省分行金融科技部:金融科技经理
   year: 2023
   degree: MS
   alum: true
